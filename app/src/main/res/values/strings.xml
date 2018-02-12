@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TDM_AnaCarolina_LAB2</string>
+    <string-array name="lista">
+        <item>onCreate</item>
+        <item>onStart</item>
+        <item>onPause</item>
+        <item>onStop</item>
+        <item>onRestart</item>
+        <item>onResume</item>
+    </string-array>
+</resources>
